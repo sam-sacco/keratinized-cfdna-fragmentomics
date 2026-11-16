@@ -1,7 +1,7 @@
 # Feather and snakeskin cfDNA fragmentomics
 
 Code for Sacco et al., *CpG Methylation and Gene Expression Inference from DNA
-Fragmentation in Feathers and Snakeskin*. Raw reads: SRA BioProject PRJNA1482836.
+Fragmentation in Feathers and Snakeskin*. Bams: SRA BioProject PRJNA1482836.
 
 Every script starts from duplicate-removed BAM files (reads adapter-trimmed and merged
 with SeqPrep2, aligned with `bwa aln`, duplicates removed with Picard MarkDuplicates; see
